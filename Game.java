@@ -1,8 +1,5 @@
 package com.yoman;
-/**
- *
- * @author sasa
- */
+
 // player
 class Player{
     String name;
